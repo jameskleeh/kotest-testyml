@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: kotestEnvs
+config.value: fromappyml
